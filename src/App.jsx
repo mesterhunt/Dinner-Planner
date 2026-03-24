@@ -51,7 +51,7 @@ function App() {
   return (
     <div className="p-8">
       <h1 className="text-3xl font-bold text-orange-500">
-        🍽️ My Dinner Planner v2
+        🍽️ My Dinner Planner
       </h1>
 
       {user ? (
