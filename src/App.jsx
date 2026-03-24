@@ -53,6 +53,7 @@ function App() {
       <h1 className="text-3xl font-bold text-orange-500">
         🍽️ My Dinner Planner v2
       </h1>
+      <p className="text-green-500 mt-2">🛒 Shopping List coming soon!</p>
 
       {user ? (
         <div className="mt-4">
